@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/mr-sami-x/SQLi/main/Picsart_23-07-21_02-11-16-006.png)
+![logo](https://raw.githubusercontent.com/0-d3y/Shells-0.d3y/main/Shells-0.d3y.jpg)
 
 # Uploader 0.d3y
 
